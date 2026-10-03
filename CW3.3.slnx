@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="CW3.3/CW3.3.csproj" />
+  <Project Path="TcpP43.Client/TcpP43.Client.csproj" />
+  <Project Path="TcpP43.Common/TcpP43.Common.csproj" />
+  <Project Path="TcpP43.Server/TcpP43.Server.csproj" />
+</Solution>
